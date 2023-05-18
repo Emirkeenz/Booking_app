@@ -50,4 +50,4 @@ const Chart = ({ aspect, title }) => {
   );
 };
 
-export default Chart;
+export default Chart
